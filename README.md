@@ -14,5 +14,6 @@ The NIPS conference (Neural Information Processing Systems) is one of the most p
 ![6](https://user-images.githubusercontent.com/56309711/112388758-d4482d00-8d1d-11eb-9b6e-2edab0778cfe.png)
 
 Most trending topics in machine learning until 2017
+
 ![7](https://user-images.githubusercontent.com/56309711/112388760-d4e0c380-8d1d-11eb-9aa2-1b1b70d2c3c1.PNG)
 
